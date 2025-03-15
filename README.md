@@ -1,4 +1,4 @@
-# Hangman React FCC
+# Hangman React FreeCodeCamp Challenge
 
 Mini game hangman dibangun menggunakan react
 
